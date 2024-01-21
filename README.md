@@ -1,1 +1,1 @@
-AI MODElLS Build from Scratch and Library Function
+AI Models Build from Scratch and Library Function
